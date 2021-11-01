@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+  <entry key="dbms">hsqldb</entry>
+  <entry key="driver">org.hsqldb.jdbc.JDBCDriver</entry>
+  <entry key="database_name">testdb</entry>
+  <entry key="user_name">SA</entry>
+  <entry key="password"></entry>
+
+</properties>
